@@ -1,0 +1,17 @@
+{
+    "name": "laloh/admin-panel",
+    "autoload": {
+        "psr-4": {
+            "Laloh\\AdminPanel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lalqh",
+            "email": "lalincotero13@gmial.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
