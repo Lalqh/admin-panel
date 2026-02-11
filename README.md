@@ -8,7 +8,6 @@ Proyecto de panel de administración en PHP
 - **PHP 8.1+** (ideal 8.2+)
 - **MySQL/MariaDB**
 - Navegador (Chrome/Edge)
-- (Opcional) **Git**
 
 ## Estructura básica
 
